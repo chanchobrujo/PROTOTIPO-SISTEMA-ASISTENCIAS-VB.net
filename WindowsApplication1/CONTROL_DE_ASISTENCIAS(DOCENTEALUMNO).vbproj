@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{284F565D-00B9-4F8A-9DBA-0DD4A8E5E311}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>WindowsApplication1</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>WindowsApplication1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>WindowsApplication1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MODULOS\Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="REPORTES\VENTANAS\RP_ALUMNOPORCARRERA.Designer.vb">
+      <DependentUpon>RP_ALUMNOPORCARRERA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTES\VENTANAS\RP_ALUMNOPORCARRERA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORTES\VENTANAS\RP_ASISTENCIADEUNACLASE.Designer.vb">
+      <DependentUpon>RP_ASISTENCIADEUNACLASE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTES\VENTANAS\RP_ASISTENCIADEUNACLASE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORTES\VENTANAS\RP_CURSOSPORCARRERA.Designer.vb">
+      <DependentUpon>RP_CURSOSPORCARRERA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTES\VENTANAS\RP_CURSOSPORCARRERA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\VENTANA_ASIGNACION_CLASE.Designer.vb">
+      <DependentUpon>VENTANA_ASIGNACION_CLASE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\VENTANA_ASIGNACION_CLASE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\VENTANA_ASITENCIA.Designer.vb">
+      <DependentUpon>VENTANA_ASITENCIA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\VENTANA_ASITENCIA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORTES\VENTANAS\RP_CARRERA.Designer.vb">
+      <DependentUpon>RP_CARRERA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTES\VENTANAS\RP_CARRERA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORTES\VENTANAS\RP_CLASESPORDOCENTE.Designer.vb">
+      <DependentUpon>RP_CLASESPORDOCENTE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTES\VENTANAS\RP_CLASESPORDOCENTE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\VENTANA_CURSOS.Designer.vb">
+      <DependentUpon>VENTANA_CURSOS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\VENTANA_CURSOS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORTES\VENTANAS\RP_DOCENTES.Designer.vb">
+      <DependentUpon>RP_DOCENTES.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTES\VENTANAS\RP_DOCENTES.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANAS\VENTANA_INICIO.Designer.vb">
+      <DependentUpon>VENTANA_INICIO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\VENTANA_INICIO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONJUNTO DE DATOS\_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CONJUNTO DE DATOS\_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\VENTANA_MATRICULA.Designer.vb">
+      <DependentUpon>VENTANA_MATRICULA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANAS\VENTANA_MATRICULA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONJUNTO DE DATOS\_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CONJUNTO DE DATOS\_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet3.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CONJUNTO DE DATOS\_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet4.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CONJUNTO DE DATOS\_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet6.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet6.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\RDLC\Report1.rdlc" />
+    <EmbeddedResource Include="REPORTES\RDLC\Report2.rdlc" />
+    <EmbeddedResource Include="REPORTES\RDLC\Report3.rdlc" />
+    <EmbeddedResource Include="REPORTES\RDLC\Report4.rdlc" />
+    <EmbeddedResource Include="REPORTES\RDLC\Report5.rdlc" />
+    <EmbeddedResource Include="REPORTES\RDLC\Report6.rdlc" />
+    <EmbeddedResource Include="REPORTES\VENTANAS\RP_ALUMNOPORCARRERA.resx">
+      <DependentUpon>RP_ALUMNOPORCARRERA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\VENTANAS\RP_ASISTENCIADEUNACLASE.resx">
+      <DependentUpon>RP_ASISTENCIADEUNACLASE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\VENTANAS\RP_CURSOSPORCARRERA.resx">
+      <DependentUpon>RP_CURSOSPORCARRERA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\VENTANA_ASIGNACION_CLASE.resx">
+      <DependentUpon>VENTANA_ASIGNACION_CLASE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\VENTANA_ASITENCIA.resx">
+      <DependentUpon>VENTANA_ASITENCIA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\VENTANAS\RP_CARRERA.resx">
+      <DependentUpon>RP_CARRERA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\VENTANAS\RP_CLASESPORDOCENTE.resx">
+      <DependentUpon>RP_CLASESPORDOCENTE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\VENTANA_CURSOS.resx">
+      <DependentUpon>VENTANA_CURSOS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\VENTANAS\RP_DOCENTES.resx">
+      <DependentUpon>RP_DOCENTES.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\VENTANA_INICIO.resx">
+      <DependentUpon>VENTANA_INICIO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANAS\VENTANA_MATRICULA.resx">
+      <DependentUpon>VENTANA_MATRICULA.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="CONJUNTO DE DATOS\_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet.xsc">
+      <DependentUpon>_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CONJUNTO DE DATOS\_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CONJUNTO DE DATOS\_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet.xss">
+      <DependentUpon>_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CONJUNTO DE DATOS\_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet1.xsc">
+      <DependentUpon>_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="CONJUNTO DE DATOS\_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CONJUNTO DE DATOS\_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet1.xss">
+      <DependentUpon>_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="CONJUNTO DE DATOS\_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet2.xsc">
+      <DependentUpon>_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="CONJUNTO DE DATOS\_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet2.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CONJUNTO DE DATOS\_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet2.xss">
+      <DependentUpon>_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="CONJUNTO DE DATOS\_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet3.xsc">
+      <DependentUpon>_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="CONJUNTO DE DATOS\_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet3.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CONJUNTO DE DATOS\_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet3.xss">
+      <DependentUpon>_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="CONJUNTO DE DATOS\_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet4.xsc">
+      <DependentUpon>_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="CONJUNTO DE DATOS\_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet4.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CONJUNTO DE DATOS\_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet4.xss">
+      <DependentUpon>_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="CONJUNTO DE DATOS\_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet6.xsc">
+      <DependentUpon>_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="CONJUNTO DE DATOS\_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet6.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CONJUNTO DE DATOS\_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet6.xss">
+      <DependentUpon>_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet6.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CLASES\CLASES.vbproj">
+      <Project>{3ca9a4c3-f282-4e53-926c-9213469c7c7f}</Project>
+      <Name>CLASES</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAO_SQL\DAO_SQL.vbproj">
+      <Project>{ea38ebd4-75b0-4427-8ca0-7c7a8359f7b8}</Project>
+      <Name>DAO_SQL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

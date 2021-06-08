@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet3" targetNamespace="http://tempuri.org/_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet3.xsd" xmlns:mstns="http://tempuri.org/_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet3.xsd" xmlns="http://tempuri.org/_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet3.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_ConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.WindowsApplication1.My.MySettings.GlobalReference.Default.BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vista_clase2TableAdapter" GeneratorDataComponentClassName="vista_clase2TableAdapter" Name="vista_clase2" UserDataComponentName="vista_clase2TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_ConnectionString (MySettings)" DbObjectName="[BD_CONTROL DE ASISTENCIAS(DOCENTE/ALUMNO)].dbo.vista_clase2" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT FECHA, HORA, ID_DOC FROM dbo.vista_clase2</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="FECHA" DataSetColumn="FECHA" />
+              <Mapping SourceColumn="HORA" DataSetColumn="HORA" />
+              <Mapping SourceColumn="ID_DOC" DataSetColumn="ID_DOC" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet3" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet3" msprop:Generator_UserDSName="_BD_CONTROL_DE_ASISTENCIAS_DOCENTE_ALUMNO_DataSet3">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vista_clase2" msprop:Generator_TableClassName="vista_clase2DataTable" msprop:Generator_TableVarName="tablevista_clase2" msprop:Generator_TablePropName="vista_clase2" msprop:Generator_RowDeletingName="vista_clase2RowDeleting" msprop:Generator_RowChangingName="vista_clase2RowChanging" msprop:Generator_RowEvHandlerName="vista_clase2RowChangeEventHandler" msprop:Generator_RowDeletedName="vista_clase2RowDeleted" msprop:Generator_UserTableName="vista_clase2" msprop:Generator_RowChangedName="vista_clase2RowChanged" msprop:Generator_RowEvArgName="vista_clase2RowChangeEvent" msprop:Generator_RowClassName="vista_clase2Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FECHA" msprop:Generator_ColumnVarNameInTable="columnFECHA" msprop:Generator_ColumnPropNameInRow="FECHA" msprop:Generator_ColumnPropNameInTable="FECHAColumn" msprop:Generator_UserColumnName="FECHA" type="xs:dateTime" />
+              <xs:element name="HORA" msprop:Generator_ColumnVarNameInTable="columnHORA" msprop:Generator_ColumnPropNameInRow="HORA" msprop:Generator_ColumnPropNameInTable="HORAColumn" msprop:Generator_UserColumnName="HORA">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ID_DOC" msprop:Generator_ColumnVarNameInTable="columnID_DOC" msprop:Generator_ColumnPropNameInRow="ID_DOC" msprop:Generator_ColumnPropNameInTable="ID_DOCColumn" msprop:Generator_UserColumnName="ID_DOC" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,25 @@
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\CLASES\bin\Debug\CLASES.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\CLASES\bin\Debug\CLASES.pdb
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\CLASES\bin\Debug\CLASES.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\CLASES\obj\Debug\CLASES.vbprojResolveAssemblyReference.cache
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\CLASES\obj\Debug\CLASES.Resources.resources
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\CLASES\obj\Debug\CLASES.vbproj.GenerateResource.Cache
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\CLASES\obj\Debug\CLASES.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\CLASES\obj\Debug\CLASES.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\CLASES\obj\Debug\CLASES.pdb
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\CLASES\bin\Debug\CLASES.dll
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\CLASES\bin\Debug\CLASES.pdb
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\CLASES\bin\Debug\CLASES.xml
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\CLASES\obj\Debug\CLASES.Resources.resources
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\CLASES\obj\Debug\CLASES.vbproj.GenerateResource.Cache
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\CLASES\obj\Debug\CLASES.dll
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\CLASES\obj\Debug\CLASES.xml
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\CLASES\obj\Debug\CLASES.pdb
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\CLASES\bin\Debug\CLASES.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\CLASES\bin\Debug\CLASES.pdb
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\CLASES\bin\Debug\CLASES.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\CLASES\obj\Debug\CLASES.Resources.resources
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\CLASES\obj\Debug\CLASES.vbproj.GenerateResource.Cache
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\CLASES\obj\Debug\CLASES.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\CLASES\obj\Debug\CLASES.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\CLASES\obj\Debug\CLASES.pdb

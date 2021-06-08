@@ -1,0 +1,101 @@
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.VENTANA_INICIO.resources
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\WindowsApplication1\bin\Debug\CLASES.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\WindowsApplication1\bin\Debug\DAO_SQL.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\WindowsApplication1\bin\Debug\CLASES.pdb
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\WindowsApplication1\bin\Debug\CLASES.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\WindowsApplication1\bin\Debug\DAO_SQL.pdb
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\WindowsApplication1\bin\Debug\DAO_SQL.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.VENTANA_CARRERA.resources
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.VENTANA_ASISTENCIA_ALUMNO.resources
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\CLASES.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\DAO_SQL.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\CLASES.pdb
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\CLASES.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\DAO_SQL.pdb
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\DAO_SQL.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.VENTANA_CARRERA.resources
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.VENTANA_INICIO.resources
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.VENTANA_DOCENTES.resources
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\CLASES.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\DAO_SQL.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\CLASES.pdb
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\CLASES.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\DAO_SQL.pdb
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\DAO_SQL.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.VENTANA_CARRERA.resources
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.VENTANA_DOCENTES.resources
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.VENTANA_INICIO.resources
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\CLASES.dll
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\DAO_SQL.dll
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\CLASES.pdb
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\CLASES.xml
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\DAO_SQL.pdb
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\DAO_SQL.xml
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.VENTANA_ASSITENCIA.resources
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.VENTANA_CARRERA.resources
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.VENTANA_CURSOS.resources
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.VENTANA_DOCENTES.resources
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.VENTANA_INICIO.resources
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\RdlCompile.cache
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\RdlCompile.compiled
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.VENTANA_CURSOS.resources
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.VENTANA_MATRICULA.resources
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.VENTANA_ASIGNACION_CLASE.resources
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\WindowsApplication1\obj\Debug\WindowsApplication1.VENTANA_ASITENCIA.resources

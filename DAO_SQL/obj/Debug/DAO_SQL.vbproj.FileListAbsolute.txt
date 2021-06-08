@@ -1,0 +1,48 @@
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\DAO_SQL\bin\Debug\DAO_SQL.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\DAO_SQL\bin\Debug\DAO_SQL.pdb
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\DAO_SQL\bin\Debug\DAO_SQL.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\DAO_SQL\bin\Debug\CLASES.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\DAO_SQL\bin\Debug\CLASES.pdb
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\DAO_SQL\bin\Debug\CLASES.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\DAO_SQL\obj\Debug\DAO_SQL.vbprojResolveAssemblyReference.cache
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\DAO_SQL\obj\Debug\DAO_SQL.Resources.resources
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\DAO_SQL\obj\Debug\DAO_SQL.vbproj.GenerateResource.Cache
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\DAO_SQL\obj\Debug\DAO_SQL.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\DAO_SQL\obj\Debug\DAO_SQL.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\SISTEMA ASISTENCIAS\WindowsApplication1\DAO_SQL\obj\Debug\DAO_SQL.pdb
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\bin\Debug\DAO_SQL.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\bin\Debug\DAO_SQL.pdb
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\bin\Debug\DAO_SQL.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\bin\Debug\CLASES.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\bin\Debug\CLASES.pdb
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\bin\Debug\CLASES.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\obj\Debug\DAO_SQL.vbprojResolveAssemblyReference.cache
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\obj\Debug\DAO_SQL.Resources.resources
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\obj\Debug\DAO_SQL.vbproj.GenerateResource.Cache
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\obj\Debug\DAO_SQL.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\obj\Debug\DAO_SQL.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\ASISTENCIAS\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\obj\Debug\DAO_SQL.pdb
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\bin\Debug\DAO_SQL.dll
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\bin\Debug\DAO_SQL.pdb
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\bin\Debug\DAO_SQL.xml
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\bin\Debug\CLASES.dll
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\bin\Debug\CLASES.pdb
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\bin\Debug\CLASES.xml
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\obj\Debug\DAO_SQL.vbprojResolveAssemblyReference.cache
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\obj\Debug\DAO_SQL.Resources.resources
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\obj\Debug\DAO_SQL.vbproj.GenerateResource.Cache
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\obj\Debug\DAO_SQL.dll
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\obj\Debug\DAO_SQL.xml
+D:\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\obj\Debug\DAO_SQL.pdb
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\bin\Debug\DAO_SQL.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\bin\Debug\DAO_SQL.pdb
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\bin\Debug\DAO_SQL.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\bin\Debug\CLASES.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\bin\Debug\CLASES.pdb
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\bin\Debug\CLASES.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\obj\Debug\DAO_SQL.vbprojResolveAssemblyReference.cache
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\obj\Debug\DAO_SQL.Resources.resources
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\obj\Debug\DAO_SQL.vbproj.GenerateResource.Cache
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\obj\Debug\DAO_SQL.dll
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\obj\Debug\DAO_SQL.xml
+C:\Users\Juan Palma\Documents\Visual Studio 2015\Projects\CONTROL_DE_ASISTENCIAS(DOCENTEALUMNO)\DAO_SQL\obj\Debug\DAO_SQL.pdb
